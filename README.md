@@ -1,7 +1,7 @@
 ## ping all hosts
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/407f9a05-d087-4405-8db7-d07643c5770b" />
 
-## ping to a specific inventory hosts
+## ping to a specific inventory host
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/a3b35f07-6d77-4477-b597-3bfa94d3101f" />
 
 ## ping to a specific ip
